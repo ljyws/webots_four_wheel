@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "*.py": "python",
+        "motor.h": "c",
+        "navigation.h": "c",
+        "random": "c",
+        "deque": "c",
+        "fstream": "c",
+        "functional": "c",
+        "limits": "c",
+        "map": "c",
+        "memory": "c",
+        "set": "c",
+        "sstream": "c",
+        "system_error": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "xhash": "c",
+        "xiosbase": "c",
+        "xlocale": "c",
+        "xstring": "c",
+        "xtree": "c",
+        "xutility": "c",
+        "bit": "c",
+        "cstddef": "c",
+        "list": "c",
+        "string": "c",
+        "optional": "c",
+        "new": "c"
+    }
+}
